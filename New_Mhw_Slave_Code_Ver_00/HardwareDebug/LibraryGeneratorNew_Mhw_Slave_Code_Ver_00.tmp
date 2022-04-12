@@ -1,0 +1,6 @@
+-MAKEUD_LBG="D:\OneDrive - Nichrome India Ltd\Desktop\ccc\slavecode\dt new 7042022\10Head_Mhw_Slave_Code_Ver_1.0.1\New_Mhw_Slave_Code_Ver_00\HardwareDebug\\New_Mhw_Slave_Code_Ver_00_lbg.ud"
+-isa=rxv2
+-lang=c99
+-head=runtime,stdio,stdlib,string,new
+-output="New_Mhw_Slave_Code_Ver_00.lib"
+-nologo
